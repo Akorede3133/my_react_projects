@@ -4,7 +4,7 @@ import Header from './components/Header';
 import Form from './components/Form';
 import Template from './components/Template';
 import {nanoid} from 'nanoid';
-import headShot from './head-shot.avif';
+import headShot from './julian.jpg';
 import avatar from './avatar.jpg'
 import { defaultWorks, defaultEducations, defaultPersonal} from './data';
 
