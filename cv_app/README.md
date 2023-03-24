@@ -9,7 +9,7 @@ Ability to add and edit personal information, education amd work experience.
 ## Installation
 To install and run this application on your local machine, follow these steps:
 
-* Clone this repository to your local machine using your preferred method (e.g., git clone https://github.com/your-username/cv_app.git)
+* Clone this repository to your local machine using your preferred method (e.g. git@github.com:Akorede3133/my_react_projects.git)
 * Navigate to the root directory of the project in your terminal or command prompt
 * Run npm install to install the required dependencies
 * Run npm start to start the application locally
