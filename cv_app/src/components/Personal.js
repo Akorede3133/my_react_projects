@@ -28,7 +28,7 @@ const Personal = ({handlePersonalChange, personal, handlePicture}) => {
                     type='text' 
                     placeholder='title' 
                     name='title'
-                    onChange={handlePicture}
+                    onChange={handlePersonalChange}
                     value={title}
                 />
             </p>
