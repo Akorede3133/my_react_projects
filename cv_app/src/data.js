@@ -1,10 +1,10 @@
 const defaultPersonal = {
-  firstName: 'Emiola',
-  lastName: 'Saheed',
+  firstName: 'Tracy',
+  lastName: 'Okorie',
   title: 'Software Developer',
-  address: '15, Madam Omotayo Olajumoke, Iya nurse, whitesand, Isheri',
-  phoneNumber: '09074005869',
-  email: 'emiolasaheed1@gmail.com',
+  address: '15, Madam Omotayo Olajumoke',
+  phoneNumber: '090xxxxxxxx',
+  email: 'example1@gmail.com',
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus imperdiet nisl sed vestibulum. Donec gravida, nulla eget blandit fermentum, mauris nisi rutrum libero, ac pharetra erat est sit amet tellus. Quisque fermentum dolor a interdum fermentum. Maecenas vehicula ac ipsum nec gravida. Integer quis porta turpis. Aenean et metus.'
 }
 const defaultWorks =     [
@@ -21,9 +21,9 @@ const defaultWorks =     [
     {
       id: 2, 
       formData: {
-        position: 'sofware engineer',
-        company: 'spotify',
-        from: '2015',
+        position: 'UI / UX designer',
+        company: 'shazam Inc.,',
+        from: '2022',
         to: 'present',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus imperdiet nisl sed vestibulum. Donec gravida, nulla eget blandit fermentum, mauris nisi rutrum libero, ac pharetra erat est sit amet tellus. Quisque fermentum dolor a interdum fermentum. Maecenas vehicula ac ipsum nec gravida. Integer quis porta turpis. Aenean et metus.'
       } 
@@ -31,10 +31,10 @@ const defaultWorks =     [
     {
       id: 3, 
       formData: {
-        position: 'sofware engineer',
-        company: 'spotify',
-        from: '2015',
-        to: 'present',
+        position: 'product designer',
+        company: 'twitter',
+        from: '2018',
+        to: '2021',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus imperdiet nisl sed vestibulum. Donec gravida, nulla eget blandit fermentum, mauris nisi rutrum libero, ac pharetra erat est sit amet tellus. Quisque fermentum dolor a interdum fermentum. Maecenas vehicula ac ipsum nec gravida. Integer quis porta turpis. Aenean et metus.'
       } 
     }

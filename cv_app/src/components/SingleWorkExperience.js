@@ -42,14 +42,6 @@ const SingleWorkExperience = ({works, index, id, formData, handleChange, handleD
                         value={to}
                     />
                 </p>
-                <p>
-                    <textarea 
-                        name='description' 
-                        placeholder='Description' 
-                        onChange={handleChange}
-                        id={id}>
-                    </textarea>
-                </p>
                 <section className='btn-container'>
                 {works.length - 1 !== index && <button className='btn delete-btn' onClick={()=>handleDeleteSpecific(id)}>delete</button>}
             </section>

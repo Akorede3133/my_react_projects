@@ -228,6 +228,22 @@ main .load-example {
   outline: none;
   cursor: pointer;
 }
+.upload {
+  background-color: var(--clr-green-dark);
+  width: 150px;
+  padding:7px;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  color: var(--clr-white);
+}
+.upload:hover {
+  background: white;
+  color: var(--clr-green-dark);
+  border: 1px solid var(--clr-green-dark);
+}
 @media (min-width: 768px) {
   main, .template {
     width: 60%;

@@ -8,7 +8,6 @@ const WorkExperience = ({setWorks, setWorkField, workField,  works}) => {
           company: '',
           from: '',
           to: '',
-          description: ''
         }
         const id = nanoid();
         const newWork = {id, formData};

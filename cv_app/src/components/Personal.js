@@ -1,5 +1,6 @@
 import React from 'react';
 const Personal = ({handlePersonalChange, personal, handlePicture}) => {
+    const fileRef = React.useRef('');
     const {firstName, lastName, title, address, phoneNumber, email, description } = personal
     return (
         <section className='personal'>
@@ -63,9 +64,12 @@ const Personal = ({handlePersonalChange, personal, handlePicture}) => {
             <p>
             <input 
                 type='file'
+                ref={fileRef}
                 onChange={handlePicture}
+                hidden
                 />
             </p>
+            <button onClick={()=> fileRef.current.click()} className='upload'>uplaod a picture</button>
         </section>
     )
 }
