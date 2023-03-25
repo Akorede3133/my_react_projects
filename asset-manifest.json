@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cv_app/static/css/main.7ce7f221.css",
-    "main.js": "/cv_app/static/js/main.5806247a.js",
-    "static/media/julian.jpg": "/cv_app/static/media/julian.91b95ce8439bf42744dc.jpg",
-    "index.html": "/cv_app/index.html",
-    "main.7ce7f221.css.map": "/cv_app/static/css/main.7ce7f221.css.map",
-    "main.5806247a.js.map": "/cv_app/static/js/main.5806247a.js.map"
+    "main.css": "/my_react_projects/cv_app/static/css/main.7ce7f221.css",
+    "main.js": "/my_react_projects/cv_app/static/js/main.a6d2b032.js",
+    "static/media/julian.jpg": "/my_react_projects/cv_app/static/media/julian.91b95ce8439bf42744dc.jpg",
+    "index.html": "/my_react_projects/cv_app/index.html",
+    "main.7ce7f221.css.map": "/my_react_projects/cv_app/static/css/main.7ce7f221.css.map",
+    "main.a6d2b032.js.map": "/my_react_projects/cv_app/static/js/main.a6d2b032.js.map"
   },
   "entrypoints": [
     "static/css/main.7ce7f221.css",
-    "static/js/main.5806247a.js"
+    "static/js/main.a6d2b032.js"
   ]
 }
